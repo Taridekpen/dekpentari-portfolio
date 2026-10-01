@@ -1,0 +1,16 @@
+export const technologies = [
+  "JavaScript",
+  "TypeScript",
+  "Rust",
+  "PHP",
+  "C#",
+  "Node.js",
+  "Next.js",
+  "React",
+  "NestJS",
+  "MongoDB",
+  "Supabase",
+  "Clarity",
+  "Phaser",
+  "Colyseus",
+] as const;
